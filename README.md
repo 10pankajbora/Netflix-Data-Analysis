@@ -1,4 +1,4 @@
-Netflix Content Strategy Analysis
+# Netflix Content Strategy Analysis
 
 This repository contains a comprehensive analysis of the Netflix dataset, performed within a Python Jupyter Notebook. The goal of this project is to explore the Netflix content library and provide data-driven recommendations to inform content acquisition, production, and marketing strategies.
 
